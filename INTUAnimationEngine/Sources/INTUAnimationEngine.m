@@ -26,7 +26,7 @@
 
 #import "INTUAnimationEngine.h"
 #import <QuartzCore/QuartzCore.h>
-#include "INTUSpringSolver.h"
+#include "SpringSolver/INTUSpringSolver.h"
 
 
 #pragma mark - INTUAnimation
